@@ -1,1 +1,1 @@
-My first readme
+scheme of the project
