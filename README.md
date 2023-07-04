@@ -1,1 +1,1 @@
-scheme of the project
+My first readme updated
